@@ -1,6 +1,7 @@
 ## **Soal Homework**
 - Buatlah 100 nilai random (1 sampai 50) pada 1 array
 - Pecahlah menjadi 2 array berdasarkan indexnya, yakni array pada index genap dan array pada index ganjil, gunakan method push() untuk menambahkan nilai baru pada array
+  
 **Gunakan 2 array yang telah dibuat untuk mendapatkan :**
 - Min
 - Max
