@@ -25,6 +25,6 @@
 - Buatlah menjadi beberapa fungsi agar kode dapat digunakan kembali
 - Push ke REPO dan upload link REPO, tolong repo dalam status public
 
-#**Sabdha Putra Laudri**
-# **Batch 05**
-# *B**
+### **Sabdha Putra Laudri**
+### **Batch 05**
+### **B**
